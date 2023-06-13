@@ -8,79 +8,79 @@
 
 <div align="center">
     <h2>Pantalla de Benvinguda a l'app</h2>
-    <img src="./resources/1.jpg">
+    <img src="./1.jpg">
     <p>És la primera pantalla que s'obre quan obrim l'aplicació. Podem entrar un codi per jugar (que ens haurà d'haver donat l'administrador) o iniciar sessió com a professors/administradors.</p>
 </div>
 
 <div align="center">
     <h2>Login professor</h2>
-    <img src="./resources/2.jpg">
+    <img src="./2.jpg">
     <p>En aquesta pantalla, podrem iniciar sessió com a professors, per poder accedir al panell de control. Per altra banda, si encara no tenim conta, la podrem crear.</p>
 </div>
 
 <div align="center">
     <h2>Crear perfil professor</h2>
-    <img src="./resources/3.jpg">
+    <img src="./3.jpg">
     <p>Si no tenim un perfil com a professor, el podrem crear podràs crear en aquesta pantalla.</p>
 </div>
 
 <div align="center">
     <h2>Panell administració professor</h2>
-    <img src="./resources/4.jpg">
+    <img src="./4.jpg">
     <p>Aquesta pantalla tenim la informació dels tracks de cada professor.</p>
 </div>
 
 <div align="center">
     <h2>Creació d'un nou Track</h2>
-    <img src="./resources/5.jpg">
+    <img src="./5.jpg">
     <p>El professor podrà crear nous tracks en una pantalla com aquesta.</p>
 </div>
 
 <div align="center">
     <h2>Configuració de la pregunta del track</h2>
-    <img src="./resources/6.jpg">
+    <img src="./6.jpg">
     <p>El professor, podrà configurar les respostes i tota la informació del track en una pantalla com aquesta.</p>
 </div>
 
 <div align="center">
     <h2>Configuració de la coordenada de la pregunta</h2>
-    <img src="./resources/7.jpg">
+    <img src="./7.jpg">
     <p>Cada pregunta del track està relacionada amb una coordenada el professor la podrà configurar aquí.</p>
 </div>
 
 <div align="center">
     <h2>Llistat de tots els tracks</h2>
-    <img src="./resources/8.jpg">
+    <img src="./8.jpg">
     <p>L'administrador tindrà una llista amb tots els tracks que ha creat.</p>
 </div>
 
 <div align="center">
     <h2>Jugar partida</h2>
-    <img src="./resources/9.jpg">
+    <img src="./9.jpg">
     <p>Un cop posat el codi del track, ens demanarà el nostre nickname per jugar.</p>
 </div>
 
 <div align="center">
     <h2>Pregunta</h2>
-    <img src="./resources/10.jpg">
+    <img src="./10.jpg">
     <p>Quan ens apropem a una coordenada, es desbloquejarà la pregunta del track i la podrem respondre.</p>
 </div>
 
 <div align="center">
     <h2>Partida</h2>
-    <img src="./resources/11.jpg">
+    <img src="./11.jpg">
     <p>Es mostrarà un mapa amb la nostra ubicació i totes les preguntes, a les quals ens haurem d'apropar per poder respondre.</p>
 </div>
 
 <div align="center">
     <h2>Configuració</h2>
-    <img src="./resources/12.jpg">
+    <img src="./12.jpg">
     <p>En aquesta pantalla es pot configurar la mida de la lletra, colors, idioma, entre altres funcionalitats</p>
 </div>
 
 <div align="center">
     <h2>Resultats</h2>
-    <img src="./resources/13.jpg">
+    <img src="./13.jpg">
     <p>Aquesta pantalla permet veure al professor els resultats de la partida</p>
 </div>
 
